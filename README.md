@@ -47,14 +47,10 @@ Description
 
 ###### 開發前的配置要求
 
-1. xxxxx x.x.x
-2. xxxxx x.x.x
-3. 良好的網路環境
+1. 良好的網路環境
 
 ###### **安裝步驟**
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
 1.如同上手指南
 
 ```sh
