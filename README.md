@@ -11,7 +11,7 @@
 
 ## 使用資料
 1.訓練集:"[opendid_set1.tsv](https://github.com/beibeiUU/ai_cup/blob/main/opendid_set1.tsv)"
-2.驗證集:"opendid_valid.tsv"
+2.驗證集:"[opendid_valid.tsv](https://github.com/beibeiUU/ai_cup/blob/main/opendid_valid.tsv)"
 
 ## 為何要在google colab上開發
 
