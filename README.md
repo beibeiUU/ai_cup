@@ -42,7 +42,7 @@ Description
 ### 上手指南
 
 “/your_github_name/your_repository”
-“/your_github_name/your_repository”
+“[/your_github_name/your_repository](https://github.com/beibeiUU/ai_cup/blob/main/%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97)”
 
 
 
