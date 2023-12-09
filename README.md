@@ -1,89 +1,25 @@
 # 文字辨識模型訓練項目
  
-## 目錄
+## 專案介紹
+本專案是先使用已經整理好的醫療檔案來訓練模型，並把訓練好的模型使用在需要整理的醫療檔案上。
+本專案使用的模型是EleutherAI/pythia-160m-deduped
+若要使用更大資料量的模型請參考:https://huggingface.co/EleutherAI/pythia-160m-deduped
 
-- [上手指南](#上手指南)
-  - [開發前的配置要求](#開發前的配置要求)
-  - [安裝步驟](#安裝步驟)
-- [檔目錄說明](#檔目錄說明)
-- [開發的架構](#開發的架構)
-- [部署](#部署)
-- [使用到的框架](#使用到的框架)
-- [版本控制](#版本控制)
-
-### 上手指南
+## 上手指南
 
 “[/your_github_name/your_repository](https://github.com/beibeiUU/ai_cup/blob/main/%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97)”
 
+## 使用資料
+訓練集:
+驗證集:
 
+## 為何要在google colab上開發
 
-###### 開發前的配置要求
-
-1. 良好的網路環境
-
-###### **安裝步驟**
-
-1.如同上手指南
-
-```sh
-git clone https://github.com/your_github_name/your_repository.git
-```
-
-### 檔目錄說明
-eg:
-
-```
-filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
-├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-└── /util/
-
-```
-
-
-
-
-
-### 開發的架構 
-
-請閱讀……
-
-### 部署
-
-暫無
-
-### 使用到的框架
-
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com)
-
-
-### 版本控制
-
-該專案使用Git進行版本管理。您可以在repository參看當前可用版本。
-
-### 作者
-
-xxx@xxxx
-
- *您也可以在貢獻者名單中參看所有參與該專案的開發者。*
-
-### 版權說明
-
-該項目簽署了MIT 授權許可，詳情請參閱 [LICENSE.txt](https://github.com/your_github_name/your_repository/blob/master/LICENSE.txt)
-
-
-
+1. 免費的計算資源：Google Colab 提供免費的處理器（CPU）、圖形處理器（GPU）和張量處理器（TPU）資源。對於初學者或沒有強大硬件的研究人員來說，這是一個很大的優勢。
+2. 無需配置環境：在 Colab 上，您無需擔心安裝和配置機器學習庫和依賴項。大部分常用的庫（如 TensorFlow、PyTorch、Keras 等）已預先安裝且可立即使用。
+3. 易於共享和協作：與 Google Docs 類似，Colab 筆記本可以輕鬆地與其他用戶共享和協作。這對於教育、團隊項目和協同工作非常有用。
+4. 基於網頁的界面：由於 Colab 是一個基於瀏覽器的平台，您可以在任何有網絡連接的設備上使用它，無需特定的硬件或操作系統。
+5. 與 Google Drive 集成：Colab 與 Google Drive 緊密集成，方便您存取和儲存數據集、模型、腳本等文件。
+6. 交互式數據分析和視覺化：Colab 支持各種數據視覺化工具，如 Matplotlib、Seaborn 等，並提供交互式數據分析的能力。
+7. 教育和學習資源：Colab 廣泛用於教育和自學，許多開放的教育資源和專案都使用 Colab，方便學生和學習者訪問。
+8. 快速原型開發：對於快速測試概念或進行原型開發，Colab 提供了一個方便且快速的解決方案。
