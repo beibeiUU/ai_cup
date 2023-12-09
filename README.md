@@ -1,7 +1,7 @@
 # 文字辨識模型訓練項目
  
 ## 專案介紹
-本專案是先使用已經整理好的醫療檔案來訓練模型，並把訓練好的模型使用在需要整理的醫療檔案上。
+本專案是先使用已經整理好的醫療檔案(訓練集)來訓練模型，並把訓練好的模型使用在需要整理的醫療檔案(驗證集)上。
 本專案使用的模型是EleutherAI/pythia-160m-deduped
 若要使用更大資料量的模型請參考:https://huggingface.co/EleutherAI/pythia-160m-deduped
 
@@ -10,8 +10,8 @@
 “[/your_github_name/your_repository](https://github.com/beibeiUU/ai_cup/blob/main/%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97)”
 
 ## 使用資料
-訓練集:
-驗證集:
+訓練集:"opendid_set1.tsv"
+驗證集:"opendid_valid.tsv"
 
 ## 為何要在google colab上開發
 
