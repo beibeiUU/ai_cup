@@ -1,32 +1,4 @@
-
-
-# AICUP
-
-Description
-
-
-<!-- PROJECT LOGO -->
-<br />
-
-<p align="center">
-  <h3 align="center">README範本</h3>
-  <p align="center">
-    一個"完美的"README範本去快速開始你的專案！
-    <br />
-    <a href="https://github.com/your_github_name/your_repository"><strong>探索本專案的文檔 »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/your_github_name/your_repository">查看Demo</a>
-    ·
-    <a href="https://github.com/your_github_name/your_repository/issues">報告Bug</a>
-    ·
-    <a href="https://github.com/your_github_name/your_repository/issues">提出新特性</a>
-  </p>
-
-</p>
-
-
- 本篇README.md面向開發者
+# 文字辨識模型訓練項目
  
 ## 目錄
 
