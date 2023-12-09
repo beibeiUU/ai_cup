@@ -5,6 +5,9 @@
 本專案使用的模型是EleutherAI/pythia-160m-deduped
 若要使用更大資料量的模型請參考:https://huggingface.co/EleutherAI/pythia-160m-deduped
 
+## 專案連結
+https://colab.research.google.com/drive/1CFAUzvW-qLOkmQwiKbUeZ9jkTfs1OdRU?usp=sharing#scrollTo=qMO95olzhlts
+
 ## 上手指南
 
 “[/your_github_name/your_repository](https://github.com/beibeiUU/ai_cup/blob/main/%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97)”
