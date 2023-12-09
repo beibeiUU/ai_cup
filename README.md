@@ -41,7 +41,6 @@ Description
 
 ### 上手指南
 
-“/your_github_name/your_repository”
 “[/your_github_name/your_repository](https://github.com/beibeiUU/ai_cup/blob/main/%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97)”
 
 
@@ -50,11 +49,13 @@ Description
 
 1. xxxxx x.x.x
 2. xxxxx x.x.x
+3. 良好的網路環境
 
 ###### **安裝步驟**
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
+1.如同上手指南
 
 ```sh
 git clone https://github.com/your_github_name/your_repository.git
