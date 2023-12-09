@@ -10,7 +10,7 @@
 “[/your_github_name/your_repository](https://github.com/beibeiUU/ai_cup/blob/main/%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97)”
 
 ## 使用資料
-1.訓練集:"opendid_set1.tsv"
+1.訓練集:"[opendid_set1.tsv](https://github.com/beibeiUU/ai_cup/blob/main/opendid_set1.tsv)"
 2.驗證集:"opendid_valid.tsv"
 
 ## 為何要在google colab上開發
