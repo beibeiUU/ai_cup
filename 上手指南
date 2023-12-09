@@ -1,0 +1,11 @@
+首先打開我提供的連結
+安裝您所選的模型，並把opendid_set1.tsv放進檔案櫃裡
+然後在執行程式把opendid_set1.tsv 放進程式中
+接著一路執行到 有BATCH_SIZE = 10的這段程式
+可以依照您自己的電腦狀況選擇BATCH_SIZE的大小，通常BATCH_SIZE越大對電腦的需求越高。
+接著一路執行到 有EPOCHS = 4的這段程式 
+可以依照您自己的電腦狀況選擇EPOCHS的大小，通常EPOCHS越大對電腦的需求越高，且所花的時間越久。
+接著訓練模型，等到程式執行出Epoch: 100%之後就可以進行下一步。
+接著把opendid_valid.tsv放進以訓練好的模型中
+執行下一段程式來處理opendid_valid.tsv這個未整理的檔案，最後會輸出answer.txt檔案
+這個answer.txt 需要把它壓縮成zip檔才可以上傳到codalab來做評分的動作。
